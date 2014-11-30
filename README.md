@@ -59,6 +59,8 @@ $ npm test
 
 MIT
 
+
+***
 [![reqtangular](https://github.com/codebusters/generator-reqtangular/blob/master/resources/img/reqtangular_banner_250x50.png)](http://reqtangular.blogspot.com.es/)
 
 [![facebook](https://github.com/codebusters/generator-reqtangular/blob/master/resources/img/FB_FindUsOnFacebook-100.png)](https://www.facebook.com/reqtangular)
