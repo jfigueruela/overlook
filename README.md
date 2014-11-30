@@ -58,3 +58,9 @@ $ npm test
 ## License
 
 MIT
+
+[![reqtangular](https://github.com/codebusters/generator-reqtangular/blob/master/resources/img/reqtangular_banner_250x50.png)](http://reqtangular.blogspot.com.es/)
+
+[![facebook](https://github.com/codebusters/generator-reqtangular/blob/master/resources/img/FB_FindUsOnFacebook-100.png)](https://www.facebook.com/reqtangular)
+[![twitter](https://github.com/codebusters/generator-reqtangular/blob/master/resources/img/bird_blue_32.png)](https://twitter.com/reqtangular)
+<a href="http://reqtangular.blogspot.com.es/"><img src="http://img1.blogblog.com/html/buttons/blogger-simple-kahki.gif" alt="Powered By Blogger"></a>
