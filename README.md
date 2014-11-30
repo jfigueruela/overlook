@@ -59,6 +59,8 @@ $ npm test
 
 MIT
 
+## Acknowledgements
+Thanks to Madhusudhan Srinivasa https://github.com/madhums for inspiring this project with his efford in https://github.com/madhums/node-express-mongoose-demo
 
 ***
 [![reqtangular](https://github.com/codebusters/generator-reqtangular/blob/master/resources/img/reqtangular_banner_250x50.png)](http://reqtangular.blogspot.com.es/)
